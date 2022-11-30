@@ -47,7 +47,7 @@ kiwisolver==1.4.4 ; python_version >= '3.7'
 lazy-loader==0.1rc2 ; python_version >= '3.8'
 littleutils==0.2.2
 markupsafe==2.1.1 ; python_version >= '3.7'
-matplotlib==3.5
+matplotlib==3.6.2
 matplotlib-inline==0.1.6 ; python_version >= '3.5'
 mistune==2.0.4
 nbclient==0.7.0 ; python_full_version >= '3.7.0'
